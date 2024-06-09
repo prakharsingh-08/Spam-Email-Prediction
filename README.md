@@ -12,18 +12,10 @@ as ham or spam mails by calculating the accuracies of the testing data and the t
 
 ## Table of Content:
 
-## <span style="color: blue; text-decoration: underline;">Introduction</span>
-This project is designed to solve problems.
-
-## <span style="color: blue; text-decoration: underline;">Key Steps</span>
-Here are the key steps involved in the project.
-
-## <span style="color: blue; text-decoration: underline;">Model Used</span>
-We used a specific model for this project.
-
-## <span style="color: blue; text-decoration: underline;">Future Scopes</span>
-There are several future scopes for this project.
-
+- <span style="color: blue; text-decoration: underline;">Introduction</span>
+- <span style="color: blue; text-decoration: underline;">Key Steps</span>
+- <span style="color: blue; text-decoration: underline;">Model Used</span>
+- <span style="color: blue; text-decoration: underline;">Future Scopes</span>
 
 ## Introduction
 
