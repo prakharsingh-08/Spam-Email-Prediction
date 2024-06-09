@@ -1,2 +1,7 @@
-# Spam-Email-Prediction
-E-mail is an efficient mode of communication which saves money and time which it a popular mode of communication in both personal and professional communication. E-mail allows internet users to simply share information throughout the world. However, there is a chance that your e-mails will be affected by active or passive attacks.Spam emails are another category for emails. Spam emails are unwelcome email messages that are typically delivered in mass to a big list of recipients. Spam emails, also referred to as junk email, are unwanted messages that are delivered in large quantities by email. These unwanted emails are typically bothersome, time-consuming, and a waste of resources on communication media.
+
+# Spam Email Prediction
+
+This project’s aim is to implement a spam mail detector by classifying incoming
+mails as either ‘ham’ that is normal or non-spam mail or ‘spam’ mail.For this we have used
+tow complex data sets along with different Models and Algorithm to check how accurately our model is being able to detect/classify the mails
+as ham or spam mails by calculating the accuracies of the testing data and the training data obtained from the each data sets.
