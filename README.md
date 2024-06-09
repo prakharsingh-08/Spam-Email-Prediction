@@ -1,3 +1,4 @@
+![Logo](https://gridinsoft.com/blogs/wp-content/uploads/2017/07/spam-email.png)
 
 # Spam Email Prediction
 
