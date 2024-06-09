@@ -10,3 +10,13 @@ as ham or spam mails by calculating the accuracies of the testing data and the t
 
 - [@Prakhar Singh](https://www.github.com/prakharsingh-08)
 
+# Key Steps
+
+1. Email Filtering - One of the primary methods for identifying spam mail is email filtering. Incoming emails must be categorized as spam or not. Machine learning
+algorithms that recognize spam can be trained using the text and metadata of the
+emails.
+2. Text Classification: Text categorization is a supervised learning technique that
+can be used to detect spam. It comprises identifying emails as spam or not spam
+based on specified traits, such as the usage of specific phrases, tone, or language.
+3. Feature engineering: It is the process of choosing pertinent features from an
+email to categorize it as spam or not.
