@@ -12,10 +12,10 @@ as ham or spam mails by calculating the accuracies of the testing data and the t
 
 ## Table of Content:
 
-<span style="color: blue; text-decoration: underline;">- Introduction</span>
-<span style="color: blue; text-decoration: underline;">- Key Steps</span>
-<span style="color: blue; text-decoration: underline;">- Model Used</span>
-<span style="color: blue; text-decoration: underline;">- Future Scopes</span>
+- <span style="color: blue; text-decoration: underline;">Introduction</span>
+- <span style="color: blue; text-decoration: underline;">Key Steps</span>
+- <span style="color: blue; text-decoration: underline;">Model Used</span>
+- <span style="color: blue; text-decoration: underline;">Future Scopes</span>
 
 ## Introduction
 
